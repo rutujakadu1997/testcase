@@ -1,0 +1,26 @@
+UI Test Cases:
+
+Field Visibility: Ensure all fields are visible and displayed correctly on the application form.
+Field Alignment: Verify that all fields are properly aligned and organized on the form.
+1. Field Labels: Check that each field has appropriate labels next to them for clarity.
+2. Field Sizes: Test the input field sizes to ensure they are suitable for expected data lengths.
+3. Placeholder Text: Verify that input fields have helpful placeholder text to guide users.
+4. Font and Typography: Ensure that the font type, size, and style are consistent throughout the form.
+5. Responsiveness: Test the form on different devices and screen sizes to ensure it scales correctly.
+6. Field Tab Order: Verify that the tab order follows a logical sequence for easy navigation.
+7. Field Format: Validate input fields for specific formats (e.g. email, phone number).
+8. Error Messages: Test the display of appropriate error messages for invalid inputs or missing required fields.
+9. Apply now button: Ensure the apply now button is clearly visible and functional.
+
+Functionality Test Cases:
+1. Form Submission: Test the successful apply of the form with valid data.
+2. Form Reset: Verify that the form can be reset to its initial state without any issues.
+3. Error Handling: Test the behavior when submitting with invalid or incomplete data.
+4. Validation Checks: Ensure that all input data is properly validated on the client-side.
+5. Data Persistence: Test if submitted data is correctly stored in the database or server.
+6. Data Integrity: Verify that the data retrieved from the database matches the submitted data.
+7. Multi-step Forms: If applicable, test the form's functionality with multi-step processes.
+8. Resume Upload: Test the functionality to upload resume and verify their successful storage.
+9. Timeouts: Test the form's behavior when a session times out during form completion.
+10. Pre-populated Data: Verify that pre-populated data is accurate and editable as required.
+11. Compatibility: Test the form on different browsers and operating systems
